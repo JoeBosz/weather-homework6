@@ -1,0 +1,7 @@
+.weatherBox {
+    width: 350px;
+    height: 150px;
+    margin: 10px;
+    padding: 25px;
+    border: 5px solid black;
+  }
