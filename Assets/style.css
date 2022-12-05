@@ -1,0 +1,33 @@
+Body {
+  background-color: grey;
+  display: flex;
+  height: 20vh;
+}
+
+h1 { 
+  color:white ;
+
+}
+
+.temp {
+  color:  white; 
+}
+
+.cloudy {
+  color: white;
+}
+
+.humidity {
+  color: white;
+}
+
+.wind {
+  color: white;
+}
+
+#fiveDay { 
+  color: white;
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: right;
+}
