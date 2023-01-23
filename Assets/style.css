@@ -4,8 +4,13 @@ Body {
   height: 20vh;
 }
 
+.weatherBox {
+  display: flex;
+  height: -20vh;
+}
+
 h1 { 
-  color:white ;
+  color:black ;
 
 }
 
@@ -25,9 +30,15 @@ h1 {
   color: white;
 }
 
+h4 {
+  font-size: x-large;
+}
+
 #fiveDay { 
   color: white;
-  display: inline-flex;
-  flex-wrap: wrap;
+  display: flex;
   justify-content: right;
+  padding: 2.5rem;
+  word-spacing: 4cm;
+  font-size: medium;
 }

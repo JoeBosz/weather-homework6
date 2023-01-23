@@ -1,7 +1,7 @@
 var  searchBtn=document.getElementById("searchBtn") 
 var citySearch=document.getElementById("citySearch")
 var weatherSource= 'https://api.openweathermap.org/data/2.5/forecast?&appid=e353137ebeb01b211cb86198e83815df&units=imperial'
-var geoSource = 'http://api.openweathermap.org/geo/1.0/direct?appid=e353137ebeb01b211cb86198e83815df'
+var geoSource = 'https://api.openweathermap.org/geo/1.0/direct?appid=e353137ebeb01b211cb86198e83815df'
 
 var currentCity= document.getElementById("city")
 var localTemp= document.getElementById("localTemp")
